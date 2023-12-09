@@ -1,2 +1,2 @@
 # Zeogen
-Cracked source of the infamous Amazon storecard generator
+I cracked this bc i had nothing to do and i was bored
