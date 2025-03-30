@@ -1,7 +1,7 @@
 # How to use Amazon Store Cards: 
  If asked for a CVV Input 000
 # ADDING THE STORE CARD
--# be on amazon.com, not the app or anything else
+``use https://amazon.com, not the app or anything else``
 1. Click "Account and Lists".
 2. Click "Payment Options".
 3. Under "Credit or Debit Cards", Click "Add a Card".
