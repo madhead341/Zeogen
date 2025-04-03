@@ -9,4 +9,4 @@ im not responsible for what u do with this
 
 also shit's outdated asf
 
-use: (discord.gg/storecards)[https://discord.gg/storecards]
+use: [iscord.gg/storecards](https://discord.gg/storecards)
