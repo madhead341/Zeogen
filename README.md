@@ -9,4 +9,7 @@ im not responsible for what u do with this
 
 also shit's outdated asf
 
-use: [discord.gg/storecards](https://discord.gg/storecards)
+use: [discord.gg/storecards](https://discord.gg/storecards) (AMZ HUB V2 ON TOP)
+
+this only uses luhn, which produces shitty cards.
+AMZ HUB V2 is much better with a 6 layer checking algorithm
